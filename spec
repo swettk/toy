@@ -1,0 +1,6 @@
+As a user I can enter a phrase "hello" and see it translated to Pig Latin "ellohay"
+As a user I can enter a phrase "hello world" and see it translated to Pig Latin "ellohay orldway"
+As a user I can enter a phrase "Hello World" and see it translated to Pig Latin "Ellohay Orldway"
+As a user I can enter a phrase "Hello, world!" and see it translated to Pig Latin "Ellohay, orldway!"
+As a user I can enter a phrase "eat apples" and see it translated to Pig Latin "eatay applesay"
+As a user I can enter a phrase "quick brown fox" and see it translated to Pig Latin "ickquay ownbray oxfay"
